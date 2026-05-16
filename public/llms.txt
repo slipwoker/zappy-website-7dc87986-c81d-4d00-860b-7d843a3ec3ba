@@ -1,0 +1,79 @@
+# בת-אל זרח — Generative Engine Optimization Map
+
+> Bat-El Zarach is a children's book author with a personal brand centered around storytelling for young readers. The brand likely carries a warm, imaginative, and creative atmosphere tailored to children and their families, with a focus on literary creativity and the magic of childhood stories.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+עולם שלם של דמיון וחלומות מחכה לילדכם! בת-אל זרח, סופרת ילדים מובילה, מביאה ספרי ילדים בעברית שמלהיבים, מרגשים ומחנכים. הצטרפו למסע!
+
+### שירותים
+https://example.com/services
+מחפשים ספרי ילדים שמשאירים חותם? גלו את מגוון השירותים הספרותיים של בת-אל זרח — כתיבת ספרי ילדים לגיל הרך, סדנאות יצירה וסיפורים מותאמים אישית לכל ילד.
+
+### אודות
+https://example.com/about
+בת-אל זרח היא סופרת ילדים עם לב גדול ודמיון אין-סופי. גלו את הסיפור שלה, את הדרך שהובילה אותה לכתיבת ספרי ילדים בעברית ואת הערכים שמניעים כל מילה שהיא כותבת.
+
+### צור קשר
+https://example.com/contact
+יש לכם רעיון, שאלה או חלום לספר ילדים? צרו קשר עם בת-אל זרח עוד היום! נשמח לשמוע מכם ולהפוך כל רעיון לסיפור קסום שילדים יאהבו לדורות.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `phone` (tel)
+  - `email` (email, required)
+  - `subject` (text)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About בת-אל זרח
+Bat-El Zarach is a children's book author with a personal brand centered around storytelling for young readers. The brand likely carries a warm, imaginative, and creative atmosphere tailored to children and their families, with a focus on literary creativity and the magic of childhood stories.
+
+## Target Audience
+- ילדים והוריהם
+- מחנכים ומורים
+- סבים וסבתות רוכשים מתנות
+
+## Industry
+Children's Book Author
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
